@@ -1,0 +1,6 @@
+Interface ABC - Authentication Flow (IDD Sample)
+- Uses OAuth2 Client Credentials
+- Token endpoint: https://auth.example.com/oauth2/token
+- Scope: abc.read
+- Token TTL: 60 minutes
+- No refresh tokens
